@@ -21,3 +21,5 @@ A
 banco/creates.sql,2/4/24524ad0eed12366c773da544e980bff0a5af097
 A
 banco/inserts.sql,c/2/c21e6abbff699aa7acfdbce8d5834efdb4e363e0
+e
+5src/main/java/com/loja/compras/ClienteRepository.java,1/1/117a947ca4b142b557f08e899ab21152cc34fb29

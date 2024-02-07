@@ -1,6 +1,7 @@
 package com.loja.compras;
 
 import com.coxautodev.graphql.tools.GraphQLQueryResolver;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
 import java.util.ArrayList;
@@ -9,6 +10,8 @@ import java.util.List;
 @Component
 public class QueryGraphQL implements GraphQLQueryResolver {
 
+    @Autowired
+    private ClienteRepository clienteRepository;
     public String hello() {
         return "Hello GraphQL";
     }
@@ -17,17 +20,11 @@ public class QueryGraphQL implements GraphQLQueryResolver {
         return a + b;
     }
 
-    public Cliente cliente() {
-        return new Cliente("Ricardo","r@gmail.com");
+    public Cliente cliente(Long id) {
+        return clienteRepository.findById(id).orElse(null);
     }
 
     public List<Cliente> clientes() {
-        List<Cliente> list = new ArrayList<>();
-
-        for (int i = 0; i < 10; i++) {
-            list.add(new Cliente("Cliente " + i, "lvitorinogoncalves" + i + "@gmail.com"));
-        }
-
-        return list;
+        return clienteRepository.findAll();
     }
 }

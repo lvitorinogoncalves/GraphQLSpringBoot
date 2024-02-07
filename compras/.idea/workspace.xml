@@ -4,7 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19ec91cd-aa6b-4363-93b8-a18f75d7329f" name="Changes" comment="" />
+    <list default="true" id="19ec91cd-aa6b-4363-93b8-a18f75d7329f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/loja/compras/ClienteRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/3/03e26311cf67c3689cc8195815080b2274754e97" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/3/03e26311cf67c3689cc8195815080b2274754e97" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/e/beab7f03ede5cd283e52fb4ae6f7fbef029c136b" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/e/beab7f03ede5cd283e52fb4ae6f7fbef029c136b" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/loja/compras/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/loja/compras/Cliente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/loja/compras/QueryGraphQL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/loja/compras/QueryGraphQL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/graphql/query.graphqls" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/graphql/query.graphqls" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/loja/compras/Cliente.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/loja/compras/Cliente.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/loja/compras/QueryGraphQL.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/loja/compras/QueryGraphQL.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/graphql/query.graphqls" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/graphql/query.graphqls" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

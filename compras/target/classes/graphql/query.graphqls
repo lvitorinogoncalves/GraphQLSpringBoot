@@ -1,4 +1,5 @@
 type Cliente {
+    id:ID
     nome:String
     email:String
 }
@@ -9,7 +10,7 @@ type Query {
 
     soma(a:Int, b:Int):Int
 
-    cliente:Cliente
+    cliente(id:ID):Cliente
 
     clientes:[Cliente]
 }

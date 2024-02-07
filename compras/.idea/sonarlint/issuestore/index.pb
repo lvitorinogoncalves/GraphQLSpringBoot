@@ -17,3 +17,7 @@ k
 +src/main/java/com/loja/compras/Cliente.java,b/e/beab7f03ede5cd283e52fb4ae6f7fbef029c136b
 7
 HELP.md,1/a/1a273f73b7a477b0745593641bd708a6182c7ad5
+A
+banco/creates.sql,2/4/24524ad0eed12366c773da544e980bff0a5af097
+A
+banco/inserts.sql,c/2/c21e6abbff699aa7acfdbce8d5834efdb4e363e0

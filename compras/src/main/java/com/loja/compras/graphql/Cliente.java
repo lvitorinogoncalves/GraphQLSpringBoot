@@ -1,4 +1,4 @@
-package com.loja.compras;
+package com.loja.compras.graphql;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

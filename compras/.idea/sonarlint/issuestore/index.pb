@@ -27,3 +27,11 @@ j
 :src/main/java/com/loja/compras/graphql/ClienteGraphQL.java,a/0/a09f9819fb9a50fa33f9a2f546446c463dd6407e
 h
 8src/main/java/com/loja/compras/graphql/QueryGraphQL.java,0/a/0a94e7f09a5d0effd01d3bc108352fc3fd638df8
+e
+5src/main/java/com/loja/compras/graphql/ClienteService,9/8/986df84cc1e7a31214d529c8aaf2a529492bdb89
+j
+:src/main/java/com/loja/compras/graphql/ClienteService.java,f/f/ffd4b521859ab1043e584650615744e5b550ab68
+c
+3src/main/java/com/loja/compras/graphql/Cliente.java,f/5/f575107af3f7cf9ee6d0721a681dab78182002f5
+m
+=src/main/java/com/loja/compras/graphql/ClienteRepository.java,5/f/5f3108209eb89655c6c3c6dde924795b8de9f6c4

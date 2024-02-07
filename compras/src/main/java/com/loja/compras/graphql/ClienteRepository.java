@@ -1,5 +1,6 @@
-package com.loja.compras;
+package com.loja.compras.graphql;
 
+import com.loja.compras.graphql.Cliente;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

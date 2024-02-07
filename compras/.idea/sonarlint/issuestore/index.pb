@@ -35,3 +35,5 @@ c
 3src/main/java/com/loja/compras/graphql/Cliente.java,f/5/f575107af3f7cf9ee6d0721a681dab78182002f5
 m
 =src/main/java/com/loja/compras/graphql/ClienteRepository.java,5/f/5f3108209eb89655c6c3c6dde924795b8de9f6c4
+h
+8src/main/java/com/loja/compras/graphql/ClienteInput.java,2/2/2261b5deb5057873a2bedd86fdee38358ecf2c3e

@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="19ec91cd-aa6b-4363-93b8-a18f75d7329f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/0/a09f9819fb9a50fa33f9a2f546446c463dd6407e" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/0/a09f9819fb9a50fa33f9a2f546446c463dd6407e" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/loja/compras/graphql/ClienteGraphQL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/loja/compras/graphql/ClienteGraphQL.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/graphql/cliente.graphqls" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/graphql/cliente.graphqls" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/graphql/query.graphqls" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/graphql/query.graphqls" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

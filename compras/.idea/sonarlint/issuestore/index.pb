@@ -23,3 +23,7 @@ A
 banco/inserts.sql,c/2/c21e6abbff699aa7acfdbce8d5834efdb4e363e0
 e
 5src/main/java/com/loja/compras/ClienteRepository.java,1/1/117a947ca4b142b557f08e899ab21152cc34fb29
+j
+:src/main/java/com/loja/compras/graphql/ClienteGraphQL.java,a/0/a09f9819fb9a50fa33f9a2f546446c463dd6407e
+h
+8src/main/java/com/loja/compras/graphql/QueryGraphQL.java,0/a/0a94e7f09a5d0effd01d3bc108352fc3fd638df8

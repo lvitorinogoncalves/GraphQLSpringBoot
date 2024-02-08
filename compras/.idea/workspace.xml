@@ -5,9 +5,35 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="19ec91cd-aa6b-4363-93b8-a18f75d7329f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/loja/compras/domain/Compra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/loja/compras/domain/CompraRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/loja/compras/domain/CompraService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/loja/compras/graphql/CompraGrphsQL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/loja/compras/graphql/CompraInput.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/resources/graphql/compra.graphqls" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/a/0a94e7f09a5d0effd01d3bc108352fc3fd638df8" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/a/0a94e7f09a5d0effd01d3bc108352fc3fd638df8" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/2/2261b5deb5057873a2bedd86fdee38358ecf2c3e" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/2/2261b5deb5057873a2bedd86fdee38358ecf2c3e" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/0/80084008da87322b400551f091a5b171f160a7eb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/0/80084008da87322b400551f091a5b171f160a7eb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/0/a09f9819fb9a50fa33f9a2f546446c463dd6407e" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/0/a09f9819fb9a50fa33f9a2f546446c463dd6407e" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/graphql/produto.graphqls" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/graphql/produto.graphqls" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/loja/compras/graphql/ClienteInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/loja/compras/graphql/ClienteInput.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/loja/compras/graphql/ProdutoInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/loja/compras/graphql/ProdutoInput.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/graphql/query.graphqls" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/graphql/query.graphqls" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/loja/compras/graphql/Cliente.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/loja/compras/graphql/ClienteGraphQL.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/loja/compras/graphql/ClienteGraphQL.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/loja/compras/graphql/ClienteInput.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/loja/compras/graphql/ClienteInput.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/loja/compras/graphql/ClienteRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/loja/compras/graphql/ClienteService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/loja/compras/graphql/Produto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/loja/compras/graphql/ProdutoGrphsQL.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/loja/compras/graphql/ProdutoGrphsQL.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/loja/compras/graphql/ProdutoInput.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/loja/compras/graphql/ProdutoInput.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/loja/compras/graphql/ProdutoRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/loja/compras/graphql/ProdutoService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/loja/compras/graphql/QueryGraphQL.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/loja/compras/graphql/QueryGraphQL.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/graphql/produto.graphqls" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/graphql/produto.graphqls" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/graphql/query.graphqls" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/graphql/query.graphqls" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,6 +88,9 @@
   &quot;associatedIndex&quot;: 0
 }</component>
   <component name="ProjectId" id="2bx30DpsOV7st09unbRrEYx4ZIN" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -94,6 +123,7 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/resources/graphql" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/loja/compras/domain" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/banco" />
@@ -101,6 +131,7 @@
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.loja.compras.graphql" />
+      <recent name="com.loja.compras.domain" />
     </key>
   </component>
   <component name="RunManager">

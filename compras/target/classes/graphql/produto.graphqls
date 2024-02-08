@@ -1,13 +1,13 @@
 type Produto {
     id:ID!
-    nome:String
-    valor:Float
+    nome:String!
+    valor:Float!
 }
 
 input ProdutoInput {
     id:ID
     nome:String!
-    valor:Float!
+    valor:Float
 }
 
 extend type Query {

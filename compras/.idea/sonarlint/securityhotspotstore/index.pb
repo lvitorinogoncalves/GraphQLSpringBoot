@@ -53,3 +53,11 @@ b
 2src/main/java/com/loja/compras/domain/Cliente.java,7/d/7d96a3564b08dc82c130dd622817e1dfb2400ce6
 a
 1src/main/java/com/loja/compras/domain/Compra.java,2/d/2dbc52b470237261e09266bf4442caadedafa6dd
+k
+;src/main/java/com/loja/compras/domain/CompraRepository.java,0/c/0c18d90fa56395c4936f1e71e83ed74b95d001fb
+h
+8src/main/java/com/loja/compras/domain/CompraService.java,8/2/82e136678749b63c24bc7dc0b39e3d14870b745b
+i
+9src/main/java/com/loja/compras/graphql/CompraGrphsQL.java,6/9/69cdee64fce3c04edbb4d20ca0e6b9bc3a240251
+g
+7src/main/java/com/loja/compras/graphql/CompraInput.java,7/f/7f9097464c48c0054b84ab940584e02ce8427139

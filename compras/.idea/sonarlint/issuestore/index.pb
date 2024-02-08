@@ -61,3 +61,7 @@ i
 9src/main/java/com/loja/compras/graphql/CompraGrphsQL.java,6/9/69cdee64fce3c04edbb4d20ca0e6b9bc3a240251
 g
 7src/main/java/com/loja/compras/graphql/CompraInput.java,7/f/7f9097464c48c0054b84ab940584e02ce8427139
+j
+:src/main/java/com/loja/compras/graphql/CompraResolver.java,8/4/84e72478c5f4247490de0ed3d78995a8fab078fd
+k
+;src/main/java/com/loja/compras/graphql/ProdutoResolver.java,f/a/fac9ac3390331ab05313a9712da14d5da99a8654

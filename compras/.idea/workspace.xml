@@ -5,19 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="19ec91cd-aa6b-4363-93b8-a18f75d7329f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/loja/compras/graphql/Produto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/loja/compras/graphql/ProdutoGrphsQL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/loja/compras/graphql/ProdutoInput.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/loja/compras/graphql/ProdutoRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/loja/compras/graphql/ProdutoService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/graphql/produto.graphqls" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/0/a09f9819fb9a50fa33f9a2f546446c463dd6407e" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/0/a09f9819fb9a50fa33f9a2f546446c463dd6407e" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/graphql/compra.graphqls" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/loja/compras/graphql/ClienteGraphQL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/loja/compras/graphql/ClienteGraphQL.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/loja/compras/graphql/ClienteRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/loja/compras/graphql/ClienteRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/loja/compras/graphql/ClienteGraphQL.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/loja/compras/graphql/ClienteGraphQL.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/graphql/produto.graphqls" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/graphql/produto.graphqls" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,7 +109,7 @@
       <module name="compras" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.loja.compras.graphql.*" />
+          <option name="PATTERN" value="com.loja.compras.domain.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>

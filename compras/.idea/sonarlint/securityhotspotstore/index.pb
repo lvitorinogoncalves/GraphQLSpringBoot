@@ -49,3 +49,7 @@ m
 =src/main/java/com/loja/compras/graphql/ProdutoRepository.java,1/0/10db7548f70092a032f0b06c1e86d20ab8fe17dd
 j
 :src/main/java/com/loja/compras/graphql/ProdutoGrphsQL.java,8/0/80084008da87322b400551f091a5b171f160a7eb
+b
+2src/main/java/com/loja/compras/domain/Cliente.java,7/d/7d96a3564b08dc82c130dd622817e1dfb2400ce6
+a
+1src/main/java/com/loja/compras/domain/Compra.java,2/d/2dbc52b470237261e09266bf4442caadedafa6dd

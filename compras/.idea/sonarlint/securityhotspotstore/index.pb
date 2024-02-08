@@ -37,3 +37,15 @@ m
 =src/main/java/com/loja/compras/graphql/ClienteRepository.java,5/f/5f3108209eb89655c6c3c6dde924795b8de9f6c4
 h
 8src/main/java/com/loja/compras/graphql/ClienteInput.java,2/2/2261b5deb5057873a2bedd86fdee38358ecf2c3e
+c
+3src/main/java/com/loja/compras/graphql/Produto.java,4/3/43ce1f650dcfe4446ce2fe15599a6859efa76c15
+h
+8src/main/java/com/loja/compras/graphql/ProdutoInput.java,8/0/80adef7442bc1520e9ae24033b33ad7797fcea7c
+b
+2src/main/java/com/loja/compras/ProdutoGrphsQL.java,c/5/c5a3a92240d1df6b2e7f765200ce01c0acd5bbbf
+j
+:src/main/java/com/loja/compras/graphql/ProdutoService.java,3/7/3724ae383c0d2f6563ad11b57fb4298615179be3
+m
+=src/main/java/com/loja/compras/graphql/ProdutoRepository.java,1/0/10db7548f70092a032f0b06c1e86d20ab8fe17dd
+j
+:src/main/java/com/loja/compras/graphql/ProdutoGrphsQL.java,8/0/80084008da87322b400551f091a5b171f160a7eb

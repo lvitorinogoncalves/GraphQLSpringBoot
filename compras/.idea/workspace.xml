@@ -5,17 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="19ec91cd-aa6b-4363-93b8-a18f75d7329f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/loja/compras/graphql/ClienteResolver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/loja/compras/graphql/dto/CompraResumo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/9/69cdee64fce3c04edbb4d20ca0e6b9bc3a240251" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/9/69cdee64fce3c04edbb4d20ca0e6b9bc3a240251" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/2/82e136678749b63c24bc7dc0b39e3d14870b745b" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/2/82e136678749b63c24bc7dc0b39e3d14870b745b" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/loja/compras/domain/CompraRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/loja/compras/domain/CompraRepository.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/loja/compras/domain/CompraService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/loja/compras/domain/CompraService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/graphql/cliente.graphqls" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/graphql/cliente.graphqls" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/loja/compras/graphql/CompraGrphsQL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/loja/compras/graphql/CompraGrphsQL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/graphql/compra.graphqls" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/graphql/compra.graphqls" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/loja/compras/domain/CompraRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/loja/compras/domain/CompraRepository.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/loja/compras/domain/CompraService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/loja/compras/domain/CompraService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/graphql/cliente.graphqls" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/graphql/cliente.graphqls" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/loja/compras/graphql/CompraGrphsQL.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/loja/compras/graphql/CompraGrphsQL.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/graphql/compra.graphqls" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/graphql/compra.graphqls" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -154,5 +157,25 @@
       <updated>1707142678473</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/loja/compras/domain/CompraRepository.java</url>
+          <line>20</line>
+          <properties class="com.loja.compras.domain.CompraRepository" method="findAllComprasRelatorio">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/loja/compras/graphql/CompraGrphsQL.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

@@ -1,5 +1,6 @@
 package com.loja.compras.domain;
 
+import com.loja.compras.graphql.dto.CompraResumo;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
@@ -36,6 +37,10 @@ public class CompraService {
     }
 
     public List<Compra> findAllByCliente(Cliente cliente) {
-        return repository.findAllByCliente(cliente);
+        return repository.findAllByCliente(cliente.getId());
+    }
+
+    public List<CompraResumo> findAllComprasRelatorio() {
+        return repository.findAllComprasRelatorio();
     }
 }

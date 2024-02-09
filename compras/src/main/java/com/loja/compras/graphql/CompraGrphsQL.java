@@ -6,6 +6,7 @@ import com.loja.compras.domain.ClienteService;
 import com.loja.compras.domain.Compra;
 import com.loja.compras.domain.CompraService;
 import com.loja.compras.domain.ProdutoService;
+import com.loja.compras.graphql.dto.CompraResumo;
 import org.modelmapper.ModelMapper;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
@@ -26,8 +27,11 @@ public class CompraGrphsQL implements GraphQLQueryResolver, GraphQLMutationResol
         return compraService.findById(id);
     }
 
-    public List<Compra> compras() {
+    public List<Compra> getCompras() {
         return compraService.findAll();
+    }
+    public List<CompraResumo> getComprasRelatorio() {
+        return compraService.findAllComprasRelatorio();
     }
 
     public Compra saveCompra(CompraInput compraInput) {

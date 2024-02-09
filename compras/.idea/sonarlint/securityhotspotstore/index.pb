@@ -73,3 +73,11 @@ r
 Bsrc/main/java/com/loja/compras/graphql/dto/CompraRelatorioDTO.java,e/4/e446a460e2f339a57f89dcfd17cc9657c050229c
 l
 <src/main/java/com/loja/compras/graphql/dto/CompraResumo.java,5/9/599ebbd97f26540a0372800cb700970773be3b48
+f
+6src/main/java/com/loja/compras/graphql/DateScalar.java,1/6/16664ccdb539dee4b17210c0ff4e5ca989aea80d
+m
+=src/main/java/com/loja/compras/graphql/scalar/DateScalar.java,8/3/838b00d31206c4381fa575684910242548033f23
+k
+;src/main/java/com/loja/compras/graphql/utils/DateUtils.java,c/c/cc2c0eab71cb6a248ee5253b77bd1a70fc80ccad
+c
+3src/main/java/com/loja/compras/utils/DateUtils.java,2/c/2c65a644c29db195dc7736771592dfc5c45e4991

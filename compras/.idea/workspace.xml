@@ -5,11 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="19ec91cd-aa6b-4363-93b8-a18f75d7329f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/9/69cdee64fce3c04edbb4d20ca0e6b9bc3a240251" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/9/69cdee64fce3c04edbb4d20ca0e6b9bc3a240251" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/loja/compras/graphql/scalar/DateScalar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/loja/compras/utils/DateUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/loja/compras/graphql/CompraGrphsQL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/loja/compras/graphql/CompraGrphsQL.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/graphql/compra.graphqls" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/graphql/compra.graphqls" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/loja/compras/graphql/CompraGrphsQL.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/loja/compras/graphql/CompraGrphsQL.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/graphql/query.graphqls" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/graphql/query.graphqls" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

@@ -6,8 +6,16 @@
   <component name="ChangeListManager">
     <list default="true" id="19ec91cd-aa6b-4363-93b8-a18f75d7329f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/2/82e136678749b63c24bc7dc0b39e3d14870b745b" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/2/82e136678749b63c24bc7dc0b39e3d14870b745b" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/b/ebaebf91327daa5f06fc7cc3335a9ee33f9247ae" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/b/ebaebf91327daa5f06fc7cc3335a9ee33f9247ae" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/loja/compras/domain/ClienteRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/loja/compras/domain/ClienteRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/loja/compras/domain/ClienteService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/loja/compras/domain/ClienteService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/loja/compras/domain/CompraRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/loja/compras/domain/CompraRepository.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/loja/compras/domain/CompraService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/loja/compras/domain/CompraService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/loja/compras/domain/ProdutoRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/loja/compras/domain/ProdutoRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/loja/compras/domain/ClienteRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/loja/compras/domain/ClienteRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/loja/compras/domain/ClienteService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/loja/compras/domain/ClienteService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/loja/compras/domain/CompraRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/loja/compras/domain/CompraRepository.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/loja/compras/domain/CompraService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/loja/compras/domain/CompraService.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -175,7 +183,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/com/loja/compras/domain/CompraRepository.java</url>
-          <line>20</line>
+          <line>23</line>
           <properties class="com.loja.compras.domain.CompraRepository" method="findAllComprasRelatorio">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />

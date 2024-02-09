@@ -95,3 +95,5 @@ f
 6src/test/java/com/loja/compras/ClienteGraphQLTest.java,2/e/2ec3d24099e80e7e5ee06787136226186a1c3d65
 b
 2src/main/java/com/loja/compras/domain/Produto.java,6/b/6b415d2811d7134f83bab2960cc689a143a3eea7
+l
+<src/main/java/com/loja/compras/domain/ProdutoRepository.java,a/1/a1910452c9e98c140cde60e9f914da499cc5d95d

@@ -1,9 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.loja.compras.ComprasApplicationTests
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 1.469 s <<< FAILURE! - in com.loja.compras.ComprasApplicationTests
-contextLoads  Time elapsed: 0.004 s  <<< ERROR!
-java.lang.IllegalStateException: Failed to load ApplicationContext
-Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'serverEndpointExporter' defined in class path resource [com/oembedler/moon/graphql/boot/GraphQLWebAutoConfiguration.class]: Invocation of init method failed; nested exception is java.lang.IllegalStateException: javax.websocket.server.ServerContainer not available
-Caused by: java.lang.IllegalStateException: javax.websocket.server.ServerContainer not available
-

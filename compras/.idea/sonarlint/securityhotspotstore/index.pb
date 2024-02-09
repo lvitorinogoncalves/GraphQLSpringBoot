@@ -91,3 +91,5 @@ l
 <src/main/java/com/loja/compras/domain/ClienteRepository.java,b/7/b7eb51760705c6a32632effaf214a19f0b688586
 i
 9src/main/java/com/loja/compras/domain/ClienteService.java,e/b/ebaebf91327daa5f06fc7cc3335a9ee33f9247ae
+f
+6src/test/java/com/loja/compras/ClienteGraphQLTest.java,2/e/2ec3d24099e80e7e5ee06787136226186a1c3d65

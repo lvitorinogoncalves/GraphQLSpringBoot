@@ -5,14 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="19ec91cd-aa6b-4363-93b8-a18f75d7329f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/loja/compras/graphql/exceptions/DomainException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/loja/compras/graphql/exceptions/GraphQLHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/2/82e136678749b63c24bc7dc0b39e3d14870b745b" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/2/82e136678749b63c24bc7dc0b39e3d14870b745b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/loja/compras/ClienteGraphQLTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/cliente.graphql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/loja/compras/domain/CompraService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/loja/compras/domain/CompraService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/loja/compras/domain/CompraService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/loja/compras/domain/CompraService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/loja/compras/ComprasApplicationTests.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,7 +111,7 @@
       <recent name="com.loja.compras.domain" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.ClienteGraphQLTest">
     <configuration name="ComprasApplication" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.loja.compras.ComprasApplication" />
       <module name="compras" />
@@ -127,6 +125,30 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ClienteGraphQLTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="compras" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.loja.compras.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.loja.compras" />
+      <option name="MAIN_CLASS_NAME" value="com.loja.compras.ClienteGraphQLTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ComprasApplication" />
+      <item itemvalue="JUnit.ClienteGraphQLTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ClienteGraphQLTest" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>

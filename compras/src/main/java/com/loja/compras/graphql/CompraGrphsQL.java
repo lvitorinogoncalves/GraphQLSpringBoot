@@ -11,6 +11,7 @@ import org.modelmapper.ModelMapper;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.PageRequest;
 import org.springframework.data.domain.Pageable;
+import org.springframework.data.domain.Sort;
 import org.springframework.stereotype.Component;
 
 import java.util.Date;
@@ -30,7 +31,7 @@ public class CompraGrphsQL implements GraphQLQueryResolver, GraphQLMutationResol
     }
 
     public List<Compra> getCompras(int page, int size) {
-        return compraService.findAll(PageRequest.of(page, size));
+        return compraService.findAll(PageRequest.of(page, size, Sort.by("quantidade").descending()));
     }
 
     public List<CompraResumo> getComprasRelatorio() {

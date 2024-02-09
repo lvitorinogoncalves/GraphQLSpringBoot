@@ -2,6 +2,7 @@ package com.loja.compras.domain;
 
 import com.loja.compras.graphql.dto.CompraResumo;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.data.domain.Pageable;
 import org.springframework.stereotype.Service;
 
 import javax.transaction.Transactional;
@@ -17,8 +18,8 @@ public class CompraService {
         return repository.findById(id).orElse(null);
     }
 
-    public List<Compra> findAll() {
-        return repository.findAll();
+    public List<Compra> findAll(Pageable pageable) {
+        return repository.findAll(pageable).getContent();
     }
 
     @Transactional

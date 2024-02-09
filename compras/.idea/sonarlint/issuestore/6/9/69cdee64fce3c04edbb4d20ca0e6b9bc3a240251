@@ -1,7 +1,9 @@
 
 _
-java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8˜˜ÏÏØ1
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8˜‡ˆöØ1
 _
-java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8ÀºÓÏØ1
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8˜‡ˆöØ1
 _
-java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8«ÔÏØ1
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8˜‡ˆöØ1
+g
+java:S1128"ERemove this unused import 'org.springframework.data.domain.Pageable'.(‡ë‚Öıÿÿÿÿ8…‚˜öØ1

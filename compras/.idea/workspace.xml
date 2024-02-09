@@ -5,12 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="19ec91cd-aa6b-4363-93b8-a18f75d7329f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/loja/compras/ClienteGraphQLTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/cliente.graphql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/ehcache.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/2/82e136678749b63c24bc7dc0b39e3d14870b745b" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/2/82e136678749b63c24bc7dc0b39e3d14870b745b" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/b/ebaebf91327daa5f06fc7cc3335a9ee33f9247ae" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/b/ebaebf91327daa5f06fc7cc3335a9ee33f9247ae" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/loja/compras/ComprasApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/loja/compras/ComprasApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/loja/compras/ComprasApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/loja/compras/domain/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/loja/compras/domain/Cliente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/loja/compras/domain/ClienteService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/loja/compras/domain/ClienteService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/loja/compras/domain/Compra.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/loja/compras/domain/Compra.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/loja/compras/domain/CompraService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/loja/compras/domain/CompraService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/loja/compras/domain/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/loja/compras/domain/Produto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/loja/compras/ComprasApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/loja/compras/ComprasApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/loja/compras/domain/Cliente.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/loja/compras/domain/Cliente.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/loja/compras/domain/ClienteService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/loja/compras/domain/ClienteService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/loja/compras/domain/Compra.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/loja/compras/domain/Compra.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/loja/compras/domain/Produto.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/loja/compras/domain/Produto.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +38,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -76,6 +91,8 @@
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Application.ComprasApplication.executor": "Run",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "JUnit.ClienteGraphQLTest.executor": "Run",
     "Maven.compras [clean].executor": "Run",
     "Maven.compras [compile].executor": "Run",
     "Maven.compras [deploy].executor": "Run",
@@ -111,7 +128,7 @@
       <recent name="com.loja.compras.domain" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.ClienteGraphQLTest">
+  <component name="RunManager" selected="Application.ComprasApplication">
     <configuration name="ComprasApplication" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.loja.compras.ComprasApplication" />
       <module name="compras" />

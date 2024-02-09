@@ -1,6 +1,7 @@
 package com.loja.compras.domain;
 
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.cache.annotation.Cacheable;
 import org.springframework.stereotype.Service;
 
 import javax.transaction.Transactional;
@@ -15,6 +16,7 @@ public class ClienteService {
         return repository.findById(id).orElse(null);
     }
 
+    @Cacheable("clientes")
     public List<Cliente> findAll() {
         return repository.findAll();
     }

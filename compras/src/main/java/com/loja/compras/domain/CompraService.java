@@ -3,6 +3,7 @@ package com.loja.compras.domain;
 import com.loja.compras.graphql.dto.CompraResumo;
 import com.loja.compras.graphql.exceptions.DomainException;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.cache.annotation.Cacheable;
 import org.springframework.data.domain.Pageable;
 import org.springframework.stereotype.Service;
 
@@ -41,6 +42,7 @@ public class CompraService {
         return false;
     }
 
+    @Cacheable("comprasByClientes")
     public List<Compra> findAllByCliente(Cliente cliente) {
         return repository.findAllByCliente(cliente.getId());
     }

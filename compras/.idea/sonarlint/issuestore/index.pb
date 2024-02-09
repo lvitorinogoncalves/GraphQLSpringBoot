@@ -93,3 +93,5 @@ i
 9src/main/java/com/loja/compras/domain/ClienteService.java,e/b/ebaebf91327daa5f06fc7cc3335a9ee33f9247ae
 f
 6src/test/java/com/loja/compras/ClienteGraphQLTest.java,2/e/2ec3d24099e80e7e5ee06787136226186a1c3d65
+b
+2src/main/java/com/loja/compras/domain/Produto.java,6/b/6b415d2811d7134f83bab2960cc689a143a3eea7

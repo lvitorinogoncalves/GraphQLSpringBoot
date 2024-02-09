@@ -81,3 +81,13 @@ k
 ;src/main/java/com/loja/compras/graphql/utils/DateUtils.java,c/c/cc2c0eab71cb6a248ee5253b77bd1a70fc80ccad
 c
 3src/main/java/com/loja/compras/utils/DateUtils.java,2/c/2c65a644c29db195dc7736771592dfc5c45e4991
+v
+Fsrc/main/java/com/loja/compras/graphql/exceptions/DomainException.java,8/e/8e2c350e49bc7a5c23b755eb385f71050cfe79fb
+t
+Dsrc/main/java/com/loja/compras/graphql/exceptions/GraphQLHander.java,e/0/e09e7c3b46b3a63eb3b5aafca110c455b130436c
+u
+Esrc/main/java/com/loja/compras/graphql/exceptions/GraphQLHandler.java,1/2/124f02728285e15b3b38ee3609578e9cdfde2fdf
+l
+<src/main/java/com/loja/compras/domain/ClienteRepository.java,b/7/b7eb51760705c6a32632effaf214a19f0b688586
+i
+9src/main/java/com/loja/compras/domain/ClienteService.java,e/b/ebaebf91327daa5f06fc7cc3335a9ee33f9247ae

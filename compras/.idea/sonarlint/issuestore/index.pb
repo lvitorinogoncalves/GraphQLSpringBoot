@@ -65,3 +65,5 @@ j
 :src/main/java/com/loja/compras/graphql/CompraResolver.java,8/4/84e72478c5f4247490de0ed3d78995a8fab078fd
 k
 ;src/main/java/com/loja/compras/graphql/ProdutoResolver.java,f/a/fac9ac3390331ab05313a9712da14d5da99a8654
+k
+;src/main/java/com/loja/compras/graphql/ClienteResolver.java,4/4/44f7d6eb9780adf4dc6d0c98ae553957cdca77cd

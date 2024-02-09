@@ -34,4 +34,8 @@ public class CompraService {
 
         return false;
     }
+
+    public List<Compra> findAllByCliente(Cliente cliente) {
+        return repository.findAllByCliente(cliente);
+    }
 }

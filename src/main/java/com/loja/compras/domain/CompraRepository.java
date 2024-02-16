@@ -14,7 +14,6 @@ import java.util.List;
 public interface CompraRepository extends JpaRepository<Compra, Long> {
 
     @Query("select c from Compra c where c.cliente.id = :clienteId")
-    @QueryHints({ @QueryHint(name = "org.hibernate.cacheable", value = "true") })
     List<Compra> findAllByCliente(@Param("clienteId") Long clienteId);
 
     @Query("select new com.loja.compras.graphql.dto.CompraResumo(compra.id, cliente.nome, produto.nome, compra.quantidade)" +

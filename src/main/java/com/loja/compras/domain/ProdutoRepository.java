@@ -11,6 +11,5 @@ import java.util.List;
 public interface ProdutoRepository extends JpaRepository<Produto, Long> {
 
     @Override
-    @QueryHints({ @QueryHint(name = "org.hibernate.cacheable", value = "true") })
     List<Produto> findAll();
 }

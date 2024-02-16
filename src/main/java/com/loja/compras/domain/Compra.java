@@ -11,7 +11,6 @@ import java.util.Date;
 @AllArgsConstructor
 @NoArgsConstructor
 @Entity
-@Cacheable
 public class Compra {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)

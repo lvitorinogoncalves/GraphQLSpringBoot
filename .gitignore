@@ -1,3 +1,16 @@
+# Arquivos específicos de configuração local (exemplo: arquivos de ambiente)
+.env
+
+# Arquivos de compilação, logs e caches
+/target/
+*.class
+*.log
+
+# Arquivos de dependência gerados
+/lib/
+/bin/
+/*.jar
+
 HELP.md
 target/
 !.mvn/wrapper/maven-wrapper.jar
@@ -29,4 +42,8 @@ deploy_heroku.txt
 build/
 
 ### VS Code ###
+.idea/
 .vscode/
+
+# Outros arquivos específicos do ambiente de desenvolvimento
+.DS_Store

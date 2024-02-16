@@ -1,0 +1,18 @@
+https://www.youtube.com/watch?v=dusvP0CFisw
+
+Criar conta no Heroku: https://heroku.com/
+Instalar o Heroku CLI: https://devcenter.heroku.com/articles/heroku-cli
+
+No terminal do IntelliJ executar os comandos:
+
+heroku login //--Este vai direcionar para o navegador para realizar a autenticação, ou solicitar email e senha
+heroku addons: create jawsdb: kitefin //--Criar um banco de dados mysql
+git push heroku master //-- Ou main
+heroku logs --tail //--Mostra todo log de compilação de da app
+heroku open //--Abre a api direto no navegador
+
+OBS.: para conectar no banco de dados para executar os comandos de banco pode acessar pela URL(https://dashboard.heroku.com/apps/compra-springboot/resources) e clicar no recurso adicionado que vai direcionar para os dados de conexão do banco (https://mysql.jawsdb.com/resource/dashboard)
+
+No arquivo application.properties ajustar a propriedade conforme abaixo:
+MySQL
+spring.datasource.url=${JDBC DATASOURCE URL} //--No curso indica colocar a URL
